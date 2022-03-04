@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectRescuers</string>
+    <string name="todo">TODO</string>
+    <string name="want_to_skip"><u>Want To Skip?</u></string>
+    <string name="login">Login</string>
+    <string name="emergency_ambulance_booking_app">Emergency Ambulance Booking App</string>
+    <string name="registration">Registration</string>
+</resources>
